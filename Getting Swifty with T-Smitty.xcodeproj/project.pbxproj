@@ -14,6 +14,7 @@
 		BDCBFE101C84C43E0020C96C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDCBFE0E1C84C43E0020C96C /* LaunchScreen.storyboard */; };
 		BDCBFE1B1C84C43E0020C96C /* Getting_Swifty_with_T_SmittyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCBFE1A1C84C43E0020C96C /* Getting_Swifty_with_T_SmittyTests.swift */; };
 		BDCBFE261C84C43E0020C96C /* Getting_Swifty_with_T_SmittyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCBFE251C84C43E0020C96C /* Getting_Swifty_with_T_SmittyUITests.swift */; };
+		BDCBFE361C84C9300020C96C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BDCBFE351C84C9300020C96C /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		BDCBFE211C84C43E0020C96C /* Getting Swifty with T-SmittyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Getting Swifty with T-SmittyUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDCBFE251C84C43E0020C96C /* Getting_Swifty_with_T_SmittyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Getting_Swifty_with_T_SmittyUITests.swift; sourceTree = "<group>"; };
 		BDCBFE271C84C43E0020C96C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDCBFE351C84C9300020C96C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		BDCBFDF91C84C43E0020C96C = {
 			isa = PBXGroup;
 			children = (
+				BDCBFE351C84C9300020C96C /* Default-568h@2x.png */,
 				BDCBFE041C84C43E0020C96C /* Getting Swifty with T-Smitty */,
 				BDCBFE191C84C43E0020C96C /* Getting Swifty with T-SmittyTests */,
 				BDCBFE241C84C43E0020C96C /* Getting Swifty with T-SmittyUITests */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BDCBFE101C84C43E0020C96C /* LaunchScreen.storyboard in Resources */,
+				BDCBFE361C84C9300020C96C /* Default-568h@2x.png in Resources */,
 				BDCBFE0D1C84C43E0020C96C /* Assets.xcassets in Resources */,
 				BDCBFE0B1C84C43E0020C96C /* Main.storyboard in Resources */,
 			);
@@ -484,6 +488,7 @@
 				BDCBFE2C1C84C43E0020C96C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BDCBFE2D1C84C43E0020C96C /* Build configuration list for PBXNativeTarget "Getting Swifty with T-SmittyTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +497,7 @@
 				BDCBFE2F1C84C43E0020C96C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BDCBFE301C84C43E0020C96C /* Build configuration list for PBXNativeTarget "Getting Swifty with T-SmittyUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +506,7 @@
 				BDCBFE321C84C43E0020C96C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
